@@ -14,5 +14,6 @@
 
 | Repository | Description |  |
 | --- | --- | :---: |
-| [auto_apms_simulation](https://github.com/AutoAPMS/auto_apms_simulation) | Abstractions for [pyrobosim](https://github.com/sea-bass/pyrobosim) | <img src="https://img.shields.io/github/stars/AutoAPMS/auto_apms_simulation?style=social"/> |
+| [auto_apms_nav2](https://github.com/AutoAPMS/auto_apms_nav2) | Integration of [Nav2 Behavior Trees](https://docs.nav2.org/behavior_trees/index.html) | <img src="https://img.shields.io/github/stars/AutoAPMS/auto_apms_nav2?style=social"/> |
 | [auto-apms-px4](https://github.com/AutoAPMS/auto-apms-px4) | Abstractions for [PX4 Autopilot](https://github.com/PX4/PX4-Autopilot) | <img src="https://img.shields.io/github/stars/AutoAPMS/auto-apms-px4?style=social"/> |
+| [auto_apms_simulation](https://github.com/AutoAPMS/auto_apms_simulation) | Abstractions for [pyrobosim](https://github.com/sea-bass/pyrobosim) | <img src="https://img.shields.io/github/stars/AutoAPMS/auto_apms_simulation?style=social"/> |
