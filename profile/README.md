@@ -1,4 +1,4 @@
-![](https://github.com/AutoAPMS/auto-apms-guide/blob/master/src/public/logo/logo.png?raw=true)
+![](https://github.com/AutoAPMS/auto-apms-guide/blob/master/src/public/logo/autoapms_logo.svg?raw=true)
 
 <p align="center"> <br> <img src="https://img.shields.io/github/stars/AutoAPMS?style=social"/> &nbsp; <img src="https://img.shields.io/github/followers/AutoAPMS?style=social"/> </p>
 
