@@ -4,11 +4,12 @@
 
 **Automated Action Planning and Management System for Robotics — Visit the [User Guide](https://autoapms.github.io/auto-apms-guide/) for more info**
 
-## AutoAPMS Core Packages
+## AutoAPMS Framework
 
 | Repository | Description |  |
 | --- | --- | :---: |
 | [auto-apms](https://github.com/AutoAPMS/auto-apms) | Development Framework for autonomous behaviors in ROS 2 | <img src="https://img.shields.io/github/stars/AutoAPMS/auto-apms?style=social"/> |
+| [auto_apms_studio](https://github.com/AutoAPMS/auto_apms_studio) | Modern Web UI and ROS 2 backend for orchestrating automated systems | <img src="https://img.shields.io/github/stars/AutoAPMS/auto_apms_studio?style=social"/> |
 
 ## Integrations
 
