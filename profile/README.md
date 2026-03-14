@@ -8,7 +8,7 @@
 
 | Title | Link |
 | --- | --- |
-| **User Guide & Documentation** | [<img src="./assets/docs.png" alt="User Guide" height="100">](https://autoapms.github.io/auto-apms-guide/about) |
+| **User Guide & Documentation** | [<img src="./assets/docs.png" alt="User Guide" height="100">](https://autoapms.github.io/auto-apms-guide/introduction/about) |
 | **Introduction to AutoAPMS (FOSDEM 2026 Devtalk)** | [<img src="./assets/fosdem26.png" alt="FOSDEM26 AutoAPMS" height="100">](https://fosdem.org/2026/schedule/event/RUE39L-auto-apms/) |
 
 ## Repositories
