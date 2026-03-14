@@ -7,7 +7,7 @@
 # Automated Action Planning and Management System for Robotics
 
 | Title | Link |
-| :--- | --- |
+| --- | --- |
 | **User Guide & Documentation** | [<img src="" alt="User Guide" width="400" height="200">](https://autoapms.github.io/auto-apms-guide/) |
 | **Introduction to AutoAPMS (FOSDEM 2026 Devtalk)** | [<img src="" alt="FOSDEM26 AutoAPMS" width="400" height="200">](https://fosdem.org/2026/schedule/event/RUE39L-auto-apms/) |
 
